@@ -1,46 +1,54 @@
-# Getting Started with Create React App and Redux
+https://github.com/coderdost/MERN-ecommerce-Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+https://github.com/coderdost/MERN-ecommerce-backend
 
-## Available Scripts
 
-In the project directory, you can run:
+npx create-react-app e-commerce --template redux
 
-### `npm start`
+npm install tailwindcss@latest
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+npx tailwindcss init
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Read about Promise
 
-### `npm test`
+ npm i @tailwindcss/aspect-ratio
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ npm i @tailwindcss/forms
 
-### `npm run build`
+ npm install @headlessui/react @heroicons/react
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 22:41
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+today, Thursday - 1:30 AM
+WEEKDAYS
+Thurs + Fri till 1:30 AM - 1 hour  @ 10 PM       Agar mn hua toh subah connect krenge nahhi toh sote rhenge :D
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+WEEKEND
+Sat + Sun till 12 AM     - 3 hours @ 11 PM
+1.5 + 1.5                          
+BY THE END OF THIS WEEK, - 4 hours DOWN
 
-### `npm run eject`
+# Day 1 (26 Jun 2024)
+npx create-react-app e-commerce --template redux
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+npm install tailwindcss@latest
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npx tailwindcss init
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Read about Promise
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ npm i @tailwindcss/aspect-ratio
 
-## Learn More
+ npm i @tailwindcss/forms
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ npm install @headlessui/react @heroicons/react
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 22:41
+
+# Day 2 (27 Jun 2024)
+
+npm i react-router-dom
+
+# 42:52
+
+# Day 3 (28 Jun 2024)
